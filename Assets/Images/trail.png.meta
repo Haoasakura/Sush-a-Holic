@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 27b6d476a0a93f64fbbb06aa23a460a9
+timeCreated: 1497207298
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: trail1_0
+    21300002: trail1_1
+    21300004: trail1_2
+    21300006: trail1_3
+    21300008: trail1_4
+    21300010: trail1_5
+    21300012: trail1_6
+    21300014: trail1_7
+    21300016: trail1_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trail1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61.333336
+        width: 30.666666
+        height: 30.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 14.833336}
+        - {x: -15.333333, y: 8.833336}
+        - {x: -15.333333, y: -15.166664}
+        - {x: 15.333333, y: -15.166664}
+        - {x: 15.333333, y: 14.833336}
+      - - {x: -13.5, y: 15.333333}
+        - {x: -15.333333, y: 11.833336}
+        - {x: -15.333333, y: 3.8333359}
+        - {x: -5.5, y: 3.8333359}
+        - {x: -2.5, y: 13.833336}
+        - {x: -2.5, y: 15.333333}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trail1_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 61.333336
+        width: 30.666666
+        height: 30.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333333, y: 9.833336}
+        - {x: -15.333333, y: -15.166664}
+        - {x: 15.333333, y: -15.166664}
+        - {x: 15.333333, y: 0.8333359}
+        - {x: -2.5, y: 9.833336}
+      - - {x: -13.5, y: 15.333333}
+        - {x: -13.5, y: 6.833336}
+        - {x: -1.5, y: 3.8333359}
+        - {x: 15.333333, y: 3.8333359}
+        - {x: 15.333333, y: 9.833336}
+        - {x: 12.5, y: 15.333333}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trail1_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 61.333336
+        width: 30.666666
+        height: 30.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333333, y: 2.8333359}
+        - {x: -15.333333, y: -15.166664}
+        - {x: 15.333333, y: -15.166664}
+        - {x: 15.333333, y: 2.8333359}
+      - - {x: -15.333333, y: 7.833336}
+        - {x: -15.333333, y: 5.833336}
+        - {x: -14.5, y: 2.8333359}
+        - {x: -7.5, y: 2.8333359}
+        - {x: -3.5, y: 3.8333359}
+        - {x: -2.5, y: 6.833336}
+        - {x: -3.5, y: 9.833336}
+        - {x: -12.5, y: 10.833336}
+      - - {x: 4.5, y: 8.833336}
+        - {x: 7.5, y: 9.833336}
+        - {x: 7.5, y: 12.833336}
+        - {x: 4.5, y: 13.833336}
+        - {x: 2.5, y: 11.833336}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trail1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31.333334
+        width: 30.666666
+        height: 30.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333333, y: 15.333333}
+        - {x: -15.333333, y: -15.166666}
+        - {x: 15.333333, y: -15.166666}
+        - {x: 15.333333, y: 15.333333}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trail1_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 31.333334
+        width: 30.666666
+        height: 30.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333333, y: 15.333333}
+        - {x: -15.333333, y: -15.166666}
+        - {x: 15.333333, y: -15.166666}
+        - {x: 15.333333, y: 15.333333}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trail1_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 31.333334
+        width: 30.666666
+        height: 30.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333333, y: 15.333333}
+        - {x: -15.333333, y: -15.166666}
+        - {x: 15.333333, y: -15.166666}
+        - {x: 15.333333, y: 15.333333}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trail1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.333334
+        width: 30.666666
+        height: 30.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333333, y: 15.333333}
+        - {x: -15.333333, y: -15.166666}
+        - {x: 15.333333, y: -15.166666}
+        - {x: 15.333333, y: 15.333333}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trail1_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1.333334
+        width: 30.666666
+        height: 30.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333333, y: -15.166666}
+        - {x: -6.5, y: -15.166666}
+        - {x: -7.5, y: -12.166666}
+        - {x: -14.5, y: -8.166666}
+        - {x: -15.333333, y: -8.166666}
+      - - {x: -15.333333, y: 15.333333}
+        - {x: -15.333333, y: -5.166666}
+        - {x: 4.5, y: -13.166666}
+        - {x: 15.333333, y: -13.166666}
+        - {x: 15.333333, y: 15.333333}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trail1_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1.333334
+        width: 30.666666
+        height: 30.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333333, y: 15.333333}
+        - {x: -15.333333, y: -14.166666}
+        - {x: -14.5, y: -15.166666}
+        - {x: 15.333333, y: -15.166666}
+        - {x: 15.333333, y: 15.333333}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

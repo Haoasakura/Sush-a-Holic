@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Milkshake Controller
+  m_Controller: {fileID: 9100000, guid: 55c2d5c5ed270eb4db7e56e3e959bc45, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 389de9180c5e6b04892f55a32b401c6f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5060a840237b75a4c8338cc4c88c3cae, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 911a3bb41385f764dba5e2dd8fa998f9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b79f13bfbb07d4545b1474fb7e8569b3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eabb616fab51ff64184e1afa32aefeb4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 02afccf1d6805c14da4280e0406cf75d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2f904a57016ddab4fa44850179af1267, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fc6f210129912d347b18f0fbd3aa6989, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 41e731d9b72b8654da5f64db688690ac, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1afb2185d01b7d9488e6b54923f0cce5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1fdcbbf8a994f7146adde2decd22aee0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ee8a300cb30554f41b8a34acc4f300f8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6700f03378679504190ec4d65fa3c7b1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1fee7a4de978d3a4cb9bd62f32963851, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ebdcf7c97e1b13d4c805167dfb4d1364, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 49e180c10d4b57340b2f7ddc5df09d6d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9916188a7560825418e6006abc916991, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4ee50ec804718bb478e8bfc957df08ed, type: 2}

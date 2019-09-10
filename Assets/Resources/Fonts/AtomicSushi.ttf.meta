@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2b36626b92bed3b49b1d4cec575c8c70
+timeCreated: 1492281803
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Atomic Sushi
+  fontNames:
+  - Atomic Sushi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

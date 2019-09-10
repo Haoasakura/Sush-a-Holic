@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MiniPopCorn Controller
+  m_Controller: {fileID: 9100000, guid: 55c2d5c5ed270eb4db7e56e3e959bc45, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 389de9180c5e6b04892f55a32b401c6f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e082bbb56f753bf4696df4b45f7fb4a1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 911a3bb41385f764dba5e2dd8fa998f9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cfa9dbb018c428d4e91ebd28ddba838e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eabb616fab51ff64184e1afa32aefeb4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2bd037369e59a9a47b0de7d953fd4637, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2f904a57016ddab4fa44850179af1267, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eb8fab9a0281f454fa114845df35f70a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 41e731d9b72b8654da5f64db688690ac, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 82f39b6b6aa952946b324cd26a5c6e5d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1fdcbbf8a994f7146adde2decd22aee0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bc0417e2eca8cd9459bac8fdfb16b9c6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6700f03378679504190ec4d65fa3c7b1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ef6a04b0015564244869890ffcd62c91, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ebdcf7c97e1b13d4c805167dfb4d1364, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0498f16c4aee30341ab58ec82f6a3e04, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9916188a7560825418e6006abc916991, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 98af7d6adfd782b47a835d0dfb605b9c, type: 2}

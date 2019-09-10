@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1337213313381436}
+  m_IsPrefabParent: 1
+--- !u!1 &1337213313381436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4357519031766150}
+  - component: {fileID: 114427103990107284}
+  - component: {fileID: 114901558128032782}
+  m_Layer: 0
+  m_Name: HealthPackManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4357519031766150
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1337213313381436}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 647.24927, y: 280.63293, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114427103990107284
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1337213313381436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 42
+    i1: 158
+    i2: 222
+    i3: 230
+    i4: 134
+    i5: 95
+    i6: 35
+    i7: 20
+    i8: 250
+    i9: 55
+    i10: 55
+    i11: 87
+    i12: 32
+    i13: 164
+    i14: 70
+    i15: 192
+  m_ServerOnly: 1
+  m_LocalPlayerAuthority: 0
+--- !u!114 &114901558128032782
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1337213313381436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 969eb78fa20417e45b3c7eae73b36ca3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  yellowRamen: {fileID: 1975803481515714, guid: dfce5a907fd35fe49a5d68522044d9cc,
+    type: 2}
+  orangeRamen: {fileID: 1486172826282648, guid: 9e6e83fa7c0043c40ad14754171b015a,
+    type: 2}
+  greenRamen: {fileID: 1802579486976346, guid: 1c532cd61422fc343927e4f6b2995811, type: 2}
+  spawns:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  healthPacksTypes: 02000000000000000100000000000000010000000200000001000000010000000200000000000000020000000100000000000000
+  healthPacks: []

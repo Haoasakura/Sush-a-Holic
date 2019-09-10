@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1871230638804240}
+  m_IsPrefabParent: 1
+--- !u!1 &1871230638804240
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4834590093789624}
+  - component: {fileID: 114854846476951840}
+  - component: {fileID: 114102904763403678}
+  - component: {fileID: 114590958761468840}
+  m_Layer: 0
+  m_Name: Game Manager
+  m_TagString: GameController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4834590093789624
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1871230638804240}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 18.27128, y: -5.94893, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114102904763403678
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1871230638804240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70138ec2f29f3ee4183b9bc0dcfe4924, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnPositions:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  enemiesPrefab:
+  - {fileID: 1876783207805168, guid: 5be3248e91dff0f45aba6bfb361076f5, type: 2}
+  - {fileID: 1369334843319502, guid: 2729609861f1d2548830c5cb60a13680, type: 2}
+  - {fileID: 1564463504404722, guid: 0ce1ea93dead390469b23e96209f8d82, type: 2}
+  - {fileID: 1216932532171406, guid: ceae5b44e9020344c8656b45506af374, type: 2}
+  - {fileID: 1383127977323124, guid: 1bcf270552c98b24aaf07a79534e87c6, type: 2}
+  - {fileID: 1967766572326026, guid: 30d98617498d6f149aa40fad6cbd10ac, type: 2}
+  - {fileID: 1304048373925674, guid: ce52efe7272c71f42bf6aeb78a2cba0d, type: 2}
+  miniBossesPrefabs:
+  - {fileID: 1876783207805168, guid: 494aab93891558e419c8f0c5b5cecaf3, type: 2}
+  - {fileID: 1369334843319502, guid: 24e344f495e87ea4b9a65e6cd9d331e9, type: 2}
+  - {fileID: 1564463504404722, guid: 7d8aa59a1ae04524bb3d7ad88e91e3a8, type: 2}
+  - {fileID: 1216932532171406, guid: 1aa99ef6ab3deb94db3578094fe9b7ae, type: 2}
+  - {fileID: 1383127977323124, guid: 1a428f0ccd48bcf489ab1cd836c1b5f1, type: 2}
+  - {fileID: 1967766572326026, guid: 6dcbf3f12d515474493ee3018748280a, type: 2}
+  - {fileID: 1304048373925674, guid: a2fec7a907846384b9661032c23adc51, type: 2}
+  wonaldPrefab: {fileID: 1630359347711528, guid: de555a2f72a1f424c9f4ef152a656a66,
+    type: 2}
+  enemyCounter: {fileID: 0}
+  spawnTimer: {fileID: 0}
+  numberOfWaves: 20
+  enemiesForWave: 2
+  enemiesForWaveCap: 10
+  timeForNextWave: 25
+  timeBetweenWaves: 3
+  numberOfEnemies: 0
+--- !u!114 &114590958761468840
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1871230638804240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3650d2296be12c9428fb4a2c05e7e95a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nekoAlive: 2
+  octoAlive: 2
+  fishermanAlive: 2
+  nekoDownedTimer: 0
+  octoDownedTimer: 0
+  fishermanDownedTimer: 0
+  neko: {fileID: 0}
+  octo: {fileID: 0}
+  fisherman: {fileID: 0}
+--- !u!114 &114854846476951840
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1871230638804240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 99
+    i1: 112
+    i2: 68
+    i3: 36
+    i4: 69
+    i5: 6
+    i6: 174
+    i7: 4
+    i8: 248
+    i9: 232
+    i10: 150
+    i11: 212
+    i12: 185
+    i13: 223
+    i14: 144
+    i15: 181
+  m_ServerOnly: 0
+  m_LocalPlayerAuthority: 1

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4c753b1b2e99f4848aa79b959b20652b
+timeCreated: 1492281803
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Twelve Ton Sushi
+  fontNames:
+  - Twelve Ton Sushi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee3b057cfa1cca142841f0980e476cb4
+timeCreated: 1492597691
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - muteButton: {instanceID: 0}
+  - connectionStatus: {instanceID: 0}
+  - mute_Off: {fileID: 21300000, guid: 8c79c2995dd2a7a4f946786b701c32e2, type: 3}
+  - mute_On: {fileID: 21300000, guid: ab165dd1009c3ba419713ca7e813a474, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

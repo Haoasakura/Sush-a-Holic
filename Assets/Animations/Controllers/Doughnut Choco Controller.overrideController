@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Doughnut Choco Controller
+  m_Controller: {fileID: 9100000, guid: 55c2d5c5ed270eb4db7e56e3e959bc45, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 389de9180c5e6b04892f55a32b401c6f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1bf319adef608c24ab2c755c3bc282d0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 911a3bb41385f764dba5e2dd8fa998f9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d9ed09e0c615ee84e9e24aaf44ef4c59, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eabb616fab51ff64184e1afa32aefeb4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d45576c32f2253b4a9ff96d0f3f2d672, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2f904a57016ddab4fa44850179af1267, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e172f31bb112c8441aafa19994f55368, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 41e731d9b72b8654da5f64db688690ac, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 23d019bf103fcf64896cdc8afc867296, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1fdcbbf8a994f7146adde2decd22aee0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0ec3f20a926afe843b525d757858911e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6700f03378679504190ec4d65fa3c7b1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d3ab6a2f7c7523a40862736791e1afcb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ebdcf7c97e1b13d4c805167dfb4d1364, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: abbf0e986ca3fae48938e082f704cad3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9916188a7560825418e6006abc916991, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 96b9f3aa725ebc44b80e762a05eb85a6, type: 2}

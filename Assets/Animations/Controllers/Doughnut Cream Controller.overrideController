@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Doughnut Cream Controller
+  m_Controller: {fileID: 9100000, guid: 55c2d5c5ed270eb4db7e56e3e959bc45, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 389de9180c5e6b04892f55a32b401c6f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 45f19a0a7f45f7040a23f976e0692968, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 911a3bb41385f764dba5e2dd8fa998f9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f2ed9f6dddddbc141931b90db08bdaf4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eabb616fab51ff64184e1afa32aefeb4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: da499debc6ecf774dbed627d5b0ad675, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2f904a57016ddab4fa44850179af1267, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7ed8f519b06ab4e4f9ee34782722c502, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 41e731d9b72b8654da5f64db688690ac, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5f24b4ee3cc8a184cbf94fb3556d0f94, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1fdcbbf8a994f7146adde2decd22aee0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0ba90cc597e06124381c356599f2a367, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6700f03378679504190ec4d65fa3c7b1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f6e6d5e3719fcd74f899b890dd48da31, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ebdcf7c97e1b13d4c805167dfb4d1364, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ed9b3b71edf247647a779425eb4e0377, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9916188a7560825418e6006abc916991, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5af14ca87c911b9419f4ac1cbf233660, type: 2}

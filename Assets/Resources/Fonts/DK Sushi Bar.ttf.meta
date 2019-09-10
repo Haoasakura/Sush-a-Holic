@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c190eb09cdfdd1745914336dae255ac8
+timeCreated: 1492281659
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Sushi Bar
+  fontNames:
+  - DK Sushi Bar
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
